@@ -1,16 +1,22 @@
-### Hi there 👋
+# Asier Iturriaga
 
-<!--
-**AsierTX/AsierTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Asier, a junior programmer passionate about coding and eager to learn and contribute to exciting software projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently focusing on improving my skills in Kotlin.
+- 💼 I am currently working at NTT Data as a Student developer, where my role primarily focuses on frontend development. I'm passionate about my work and always eager to learn and contribute to exciting software projects.
+- 📚 I'm a lifelong learner and I believe in the power of community-driven knowledge sharing.
+
+## My Skills
+
+- Collaborating with the development team to design and implement user interfaces.
+- Writing clean and efficient code to optimize website performance.
+- Ensuring cross-browser compatibility and responsiveness of web applications.
+- Debugging and troubleshooting issues as they arise.
+- Contributing to the design and usability of web applications to enhance the user experience.
+
+## Get in Touch
+
+- 📫 You can reach me via email at asiturr@gmail.com.
+
