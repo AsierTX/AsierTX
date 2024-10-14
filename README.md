@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌱 I'm currently focusing on improving my skills in Kotlin.
-- 💼 I am currently working at NTT Data as a Student developer, where my role primarily focuses on frontend development. I'm passionate about my work and always eager to learn and contribute to exciting software projects.
+- 💼 I have experience working at NTT Data as a Student developer, where my role primarily focuses on frontend development. I'm passionate about my work and always eager to learn and contribute to exciting software projects.
 - 📚 I'm a lifelong learner and I believe in the power of community-driven knowledge sharing.
 
 ## My Skills
